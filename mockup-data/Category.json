@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "guid": "907037fe-ee4a-4009-891b-6997a8f24ebd",
+    "name": "Books"
+  },
+  {
+    "id": 2,
+    "guid": "eff71541-faff-43cd-bda4-0aeffc95a70f",
+    "name": "Beauty"
+  },
+  {
+    "id": 3,
+    "guid": "9427850d-08fc-4985-ab6f-1962e0e71d2d",
+    "name": "Jewelery"
+  },
+  {
+    "id": 4,
+    "guid": "4dd58493-bf3d-4fc1-9e04-3857a919c01d",
+    "name": "Computers"
+  },
+  {
+    "id": 5,
+    "guid": "ef8029a9-1470-41c4-a25d-78fdc1c3eaaf",
+    "name": "Electronics"
+  },
+  {
+    "id": 6,
+    "guid": "15459264-57a4-4dab-b990-00127bdd54e3",
+    "name": "Sports"
+  },
+  {
+    "id": 7,
+    "guid": "d032878d-caa8-42f7-8f4e-158c7a8886bd",
+    "name": "Clothing"
+  },
+  {
+    "id": 8,
+    "guid": "c1a8b148-0500-43bf-9c62-0c58d8db39e9",
+    "name": "Books"
+  },
+  {
+    "id": 9,
+    "guid": "5d7a6bd7-f181-40ac-a2d8-4611da2cd445",
+    "name": "Electronics"
+  },
+  {
+    "id": 10,
+    "guid": "2b10e430-e59a-48b4-966e-889444c160da",
+    "name": "Sports"
+  },
+  {
+    "id": 11,
+    "guid": "06efb700-ebf2-4f8b-bbd5-f9b9412df664",
+    "name": "Clothing"
+  },
+  {
+    "id": 12,
+    "guid": "8a69dd3e-815f-4cb4-a9d9-c8139efae867",
+    "name": "Clothing"
+  },
+  {
+    "id": 13,
+    "guid": "f5b0f2a2-d71b-4d3b-955e-317e518c3f31",
+    "name": "Music"
+  },
+  {
+    "id": 14,
+    "guid": "abf906ef-a630-490f-acf2-ff8252698a3d",
+    "name": "Clothing"
+  },
+  {
+    "id": 15,
+    "guid": "fd202cdb-4d87-4946-9309-c6b0e5b91ede",
+    "name": "Jewelery"
+  },
+  {
+    "id": 16,
+    "guid": "7c2f4c26-6c62-4b96-bb41-e7e9b004945e",
+    "name": "Industrial"
+  },
+  {
+    "id": 17,
+    "guid": "27e95d0d-2141-4950-8a9a-1c9970e43f1c",
+    "name": "Games"
+  },
+  {
+    "id": 18,
+    "guid": "2e77c617-902e-49dc-950b-5126e60d9e1e",
+    "name": "Computers"
+  },
+  {
+    "id": 19,
+    "guid": "b41291de-ad7f-46a7-bb27-c1cf74ebae08",
+    "name": "Baby"
+  },
+  {
+    "id": 20,
+    "guid": "0c6b38f9-5ced-485c-9b43-951c8eaaced5",
+    "name": "Baby"
+  }
+]

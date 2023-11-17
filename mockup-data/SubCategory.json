@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "guid": "817ba68c-6999-4bd7-b1ff-67e9916b271d",
+    "categoryId": 1,
+    "name": "Table"
+  },
+  {
+    "id": 2,
+    "guid": "252a7595-ebc3-48c5-bc56-d3e33bf00c1b",
+    "categoryId": 1,
+    "name": "Tuna"
+  },
+  {
+    "id": 3,
+    "guid": "af8626d9-e4b3-4a3b-962b-d2a3ce2a2f12",
+    "categoryId": 1,
+    "name": "Car"
+  },
+  {
+    "id": 4,
+    "guid": "f2065ce9-a13d-4434-beb7-0d7a9b593d34",
+    "categoryId": 1,
+    "name": "Car"
+  },
+  {
+    "id": 5,
+    "guid": "7d7ad5e8-d145-4d7f-a16d-d0889b599a23",
+    "categoryId": 2,
+    "name": "Shoes"
+  },
+  {
+    "id": 6,
+    "guid": "90a21710-c4d8-4b32-ad08-6b8e29eea857",
+    "categoryId": 2,
+    "name": "Chips"
+  },
+  {
+    "id": 7,
+    "guid": "689d84e5-3d75-403b-9c64-b00df878cd9d",
+    "categoryId": 2,
+    "name": "Towels"
+  },
+  {
+    "id": 8,
+    "guid": "4337ef36-099f-4c32-832e-b04649209fb4",
+    "categoryId": 2,
+    "name": "Pizza"
+  },
+  {
+    "id": 9,
+    "guid": "abfb2358-59d3-4a7c-8e27-ba1e3b0d05ff",
+    "categoryId": 3,
+    "name": "Hat"
+  },
+  {
+    "id": 10,
+    "guid": "df20bf47-b98e-4265-b6e2-b85c3e6f0b34",
+    "categoryId": 3,
+    "name": "Mouse"
+  },
+  {
+    "id": 11,
+    "guid": "b5f86d27-43fb-41b6-826a-a33e8c3ab8fc",
+    "categoryId": 3,
+    "name": "Chicken"
+  },
+  {
+    "id": 12,
+    "guid": "c6552c9b-7cbc-4663-a6cb-ea7b044ad518",
+    "categoryId": 4,
+    "name": "Computer"
+  },
+  {
+    "id": 13,
+    "guid": "f9dd6178-09a3-4b92-b5ff-36bbd89455a2",
+    "categoryId": 4,
+    "name": "Hat"
+  },
+  {
+    "id": 14,
+    "guid": "22912546-cfaa-4b7f-ad91-5bf5a01b2f47",
+    "categoryId": 4,
+    "name": "Fish"
+  },
+  {
+    "id": 15,
+    "guid": "dc2159ff-afcb-4e5c-a11d-6534841bb6c9",
+    "categoryId": 4,
+    "name": "Shoes"
+  },
+  {
+    "id": 16,
+    "guid": "cee4cf09-5f5e-4211-a58b-5d5c3901fe85",
+    "categoryId": 5,
+    "name": "Chair"
+  },
+  {
+    "id": 17,
+    "guid": "df8e6c54-5dd9-4ca7-99d3-169f7c22bdc0",
+    "categoryId": 5,
+    "name": "Table"
+  },
+  {
+    "id": 18,
+    "guid": "37e2141c-4507-4999-82ea-a69fee731ff9",
+    "categoryId": 5,
+    "name": "Tuna"
+  },
+  {
+    "id": 19,
+    "guid": "a2810691-d40d-45b1-a358-969281051aa7",
+    "categoryId": 6,
+    "name": "Sausages"
+  },
+  {
+    "id": 20,
+    "guid": "3e405d0c-3784-40f8-a193-50a5c665d688",
+    "categoryId": 6,
+    "name": "Table"
+  },
+  {
+    "id": 21,
+    "guid": "2f97a3b0-1967-46e2-9fba-c175c820962e",
+    "categoryId": 6,
+    "name": "Mouse"
+  },
+  {
+    "id": 22,
+    "guid": "44fe8bd6-7d83-4823-bb06-9ded12b1efc1",
+    "categoryId": 6,
+    "name": "Sausages"
+  },
+  {
+    "id": 23,
+    "guid": "00c4df09-c8be-493e-a78e-22cc520ed9bf",
+    "categoryId": 6,
+    "name": "Bacon"
+  },
+  {
+    "id": 24,
+    "guid": "d65321d4-fb84-4ac8-91c1-15c50bd4d9c2",
+    "categoryId": 7,
+    "name": "Fish"
+  },
+  {
+    "id": 25,
+    "guid": "b501b119-863d-492c-8e39-b235208e725b",
+    "categoryId": 7,
+    "name": "Shirt"
+  },
+  {
+    "id": 26,
+    "guid": "acd0e3b9-b3fc-447c-b187-fb97b88e9746",
+    "categoryId": 7,
+    "name": "Towels"
+  },
+  {
+    "id": 27,
+    "guid": "c5a6b890-83e3-4f81-a336-d8e50fe459c6",
+    "categoryId": 8,
+    "name": "Bike"
+  },
+  {
+    "id": 28,
+    "guid": "476528e2-3e25-49b0-a3a9-2200b19f8cfa",
+    "categoryId": 8,
+    "name": "Fish"
+  },
+  {
+    "id": 29,
+    "guid": "07bfe4c2-e171-41f7-a328-042bfb19a341",
+    "categoryId": 8,
+    "name": "Table"
+  },
+  {
+    "id": 30,
+    "guid": "7ed1dc20-c3f5-4821-be5c-329c22f44a0a",
+    "categoryId": 8,
+    "name": "Towels"
+  },
+  {
+    "id": 31,
+    "guid": "c928fb09-630e-4cda-9bde-b68ce598890f",
+    "categoryId": 9,
+    "name": "Towels"
+  },
+  {
+    "id": 32,
+    "guid": "a7b5afb2-31f1-4ba5-a2bb-7720b3816d63",
+    "categoryId": 9,
+    "name": "Chair"
+  },
+  {
+    "id": 33,
+    "guid": "ca427ded-f5a2-43e1-88d7-55eda70f29e7",
+    "categoryId": 10,
+    "name": "Salad"
+  },
+  {
+    "id": 34,
+    "guid": "75802a93-cb92-4c26-ba5c-fc777505f826",
+    "categoryId": 10,
+    "name": "Soap"
+  },
+  {
+    "id": 35,
+    "guid": "92ddf8a6-d02a-4435-80b2-0ea47bf7fcd1",
+    "categoryId": 10,
+    "name": "Bike"
+  },
+  {
+    "id": 36,
+    "guid": "9eafc04f-86d2-4e52-83aa-29ec079a9aa1",
+    "categoryId": 10,
+    "name": "Mouse"
+  },
+  {
+    "id": 37,
+    "guid": "78571974-96f9-45ed-aa36-c59f7c64239c",
+    "categoryId": 11,
+    "name": "Bike"
+  },
+  {
+    "id": 38,
+    "guid": "a0bb88aa-deb4-4784-8d8e-1cbce52f49fd",
+    "categoryId": 11,
+    "name": "Shirt"
+  },
+  {
+    "id": 39,
+    "guid": "b0672033-0428-4dfb-8d1a-9a503556bc1c",
+    "categoryId": 11,
+    "name": "Shoes"
+  },
+  {
+    "id": 40,
+    "guid": "32d64f12-4205-4fe0-a058-13fbaa04c04a",
+    "categoryId": 11,
+    "name": "Mouse"
+  },
+  {
+    "id": 41,
+    "guid": "44fa121e-578a-4b65-9191-25471befba88",
+    "categoryId": 11,
+    "name": "Car"
+  },
+  {
+    "id": 42,
+    "guid": "50806fed-1d9c-437e-8488-4911f5d34606",
+    "categoryId": 12,
+    "name": "Salad"
+  },
+  {
+    "id": 43,
+    "guid": "c68d85f7-fa8d-4043-8a35-f8b2a0d12411",
+    "categoryId": 12,
+    "name": "Tuna"
+  },
+  {
+    "id": 44,
+    "guid": "d9cc2929-a0bd-4125-b4f1-f2be61e10519",
+    "categoryId": 13,
+    "name": "Salad"
+  },
+  {
+    "id": 45,
+    "guid": "6ebdb713-38d5-4f33-a6a4-fcff23f12910",
+    "categoryId": 13,
+    "name": "Gloves"
+  },
+  {
+    "id": 46,
+    "guid": "2acf24c3-1f45-450d-a7d6-d2365b27f9bb",
+    "categoryId": 13,
+    "name": "Computer"
+  },
+  {
+    "id": 47,
+    "guid": "625978a5-4995-4b4c-8467-d2ef25b99ffb",
+    "categoryId": 14,
+    "name": "Car"
+  },
+  {
+    "id": 48,
+    "guid": "49b225d8-094d-43ef-a55a-74778c9dfc86",
+    "categoryId": 14,
+    "name": "Tuna"
+  },
+  {
+    "id": 49,
+    "guid": "a1308aa3-26a7-4c2e-8402-fb99969b36e3",
+    "categoryId": 14,
+    "name": "Gloves"
+  },
+  {
+    "id": 50,
+    "guid": "8a23e547-c3dd-43f0-b364-23f74b014904",
+    "categoryId": 14,
+    "name": "Cheese"
+  },
+  {
+    "id": 51,
+    "guid": "8af5c3bf-8c80-4999-a8f6-d704748f89d3",
+    "categoryId": 15,
+    "name": "Table"
+  },
+  {
+    "id": 52,
+    "guid": "dfc02efa-badf-43c0-900d-6da40a401820",
+    "categoryId": 15,
+    "name": "Computer"
+  },
+  {
+    "id": 53,
+    "guid": "92d41644-9976-41a8-bea5-dfd34d7e8edc",
+    "categoryId": 15,
+    "name": "Salad"
+  },
+  {
+    "id": 54,
+    "guid": "7abca87c-646c-4083-ba24-baf5413a843a",
+    "categoryId": 15,
+    "name": "Tuna"
+  },
+  {
+    "id": 55,
+    "guid": "354b612a-bb83-48e8-aa48-315a6ce9e003",
+    "categoryId": 16,
+    "name": "Chair"
+  },
+  {
+    "id": 56,
+    "guid": "ea32ea09-b0b4-4e0c-86b2-6855bb4d24fa",
+    "categoryId": 16,
+    "name": "Cheese"
+  },
+  {
+    "id": 57,
+    "guid": "5c133d88-129d-4378-9a22-c2ad27718de4",
+    "categoryId": 16,
+    "name": "Pizza"
+  },
+  {
+    "id": 58,
+    "guid": "c0ef270b-c12f-4f91-b51c-544a4d30c63d",
+    "categoryId": 16,
+    "name": "Sausages"
+  },
+  {
+    "id": 59,
+    "guid": "04f97826-b469-4b8b-9fbe-177ad7347737",
+    "categoryId": 16,
+    "name": "Bike"
+  },
+  {
+    "id": 60,
+    "guid": "c63fe05d-2e67-4016-b0e9-201e2ce0e722",
+    "categoryId": 17,
+    "name": "Sausages"
+  },
+  {
+    "id": 61,
+    "guid": "2c3d391b-84ac-4ac3-a21e-8a307a984596",
+    "categoryId": 17,
+    "name": "Ball"
+  },
+  {
+    "id": 62,
+    "guid": "b3fa72b9-844c-4424-b6bf-74949b2b65c1",
+    "categoryId": 17,
+    "name": "Fish"
+  },
+  {
+    "id": 63,
+    "guid": "3a99e3b2-99cc-417f-a72e-adbac8ae6c4d",
+    "categoryId": 17,
+    "name": "Car"
+  },
+  {
+    "id": 64,
+    "guid": "3d794ed0-f6cc-42c3-800f-0b6f9927c274",
+    "categoryId": 18,
+    "name": "Pizza"
+  },
+  {
+    "id": 65,
+    "guid": "a8e9e76d-dc23-402f-99ff-0382e0cb0df9",
+    "categoryId": 18,
+    "name": "Chair"
+  },
+  {
+    "id": 66,
+    "guid": "fb4a7a52-54f4-458c-9f49-d5919d001745",
+    "categoryId": 18,
+    "name": "Pizza"
+  },
+  {
+    "id": 67,
+    "guid": "ad41bcc4-e34f-4014-909d-9848efd7cb32",
+    "categoryId": 19,
+    "name": "Salad"
+  },
+  {
+    "id": 68,
+    "guid": "8d38d665-d76e-434d-86af-75ad1bfa1ed3",
+    "categoryId": 19,
+    "name": "Bike"
+  },
+  {
+    "id": 69,
+    "guid": "62e433db-afec-493c-bb2a-7006819e2596",
+    "categoryId": 19,
+    "name": "Mouse"
+  },
+  {
+    "id": 70,
+    "guid": "db52c2b3-880b-40a3-93ed-6bc1c5eda3ef",
+    "categoryId": 20,
+    "name": "Hat"
+  },
+  {
+    "id": 71,
+    "guid": "6c97763a-dbc5-4e39-b75f-db1966a1c87c",
+    "categoryId": 20,
+    "name": "Shoes"
+  },
+  {
+    "id": 72,
+    "guid": "7927e4c7-06c3-4334-81a9-289cd65a58f2",
+    "categoryId": 20,
+    "name": "Soap"
+  }
+]
