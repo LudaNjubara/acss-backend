@@ -16,7 +16,12 @@ const PORT = 3001;
 
 function isAuthenticated({ email, password }) {
   const userdb = JSON.parse(fs.readFileSync("./mockup-data/User.json", "UTF-8"));
-  return userdb.findIndex((user) => user.email === email && user.password === password) !== -1;
+  const user = userdb.find((user) => user.email === email && user.password === password);
+
+  return {
+    isAuth: !!user,
+    user,
+  };
 }
 
 const SECRET_KEY = "123456789";
@@ -27,7 +32,7 @@ function createToken(payload) {
 
 server.post("/auth/login", (req, res) => {
   const { email, password } = req.body;
-  const isAuth = isAuthenticated({ email, password });
+  const { isAuth, user } = isAuthenticated({ email, password });
   console.log(isAuth);
   if (!isAuth) {
     const status = 401;
@@ -36,7 +41,9 @@ server.post("/auth/login", (req, res) => {
   }
   const status = 200;
   const access_token = createToken({ email, password });
-  res.status(status).json({ access_token });
+  const userWithoutPassword = { ...user };
+  delete userWithoutPassword.password;
+  res.status(status).json({ access_token, user: userWithoutPassword });
 });
 
 function addAuthenticatedUser({ name, email, password }) {
