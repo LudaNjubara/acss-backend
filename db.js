@@ -7,6 +7,7 @@ const Item = require("./mockup-data/Item");
 const Category = require("./mockup-data/Category");
 const SubCategory = require("./mockup-data/SubCategory");
 const Product = require("./mockup-data/Product");
+const User = require("./mockup-data/User");
 
 module.exports = () => ({
   City,
@@ -18,4 +19,5 @@ module.exports = () => ({
   Category,
   SubCategory,
   Product,
+  User,
 });

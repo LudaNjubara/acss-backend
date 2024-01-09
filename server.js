@@ -62,6 +62,28 @@ server.post("/auth/register", (req, res) => {
   res.status(status).json({});
 });
 
+server.get("/auth/user-info", (req, res) => {
+  const jwtToken = req.headers.authorization.split(" ")[1];
+  console.log("token", jwtToken);
+  const verifiedToken = verifyToken(jwtToken);
+
+  if (!verifiedToken) {
+    const status = 401;
+    res.status(status).json({ status, message: "Error: access_token is not valid" });
+    return;
+  }
+
+  const userdb = JSON.parse(fs.readFileSync("./mockup-data/User.json", "UTF-8"));
+  const user = userdb.find(
+    (user) => user.email === verifiedToken.email && user.password === verifiedToken.password
+  );
+  const userWithoutPassword = { ...user };
+  delete userWithoutPassword.password;
+
+  const status = 200;
+  res.status(status).json({ user: userWithoutPassword });
+});
+
 function verifyToken(token) {
   return jwt.verify(token, SECRET_KEY, (err, decode) => (decode !== undefined ? decode : err));
 }

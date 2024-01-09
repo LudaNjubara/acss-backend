@@ -1,102 +1,102 @@
 [
   {
     "id": 1,
-    "guid": "907037fe-ee4a-4009-891b-6997a8f24ebd",
-    "name": "Books"
+    "guid": "7cd1be3b-56ae-40f9-916f-9b334adf20ed",
+    "name": "Shoes"
   },
   {
     "id": 2,
-    "guid": "eff71541-faff-43cd-bda4-0aeffc95a70f",
-    "name": "Beauty"
-  },
-  {
-    "id": 3,
-    "guid": "9427850d-08fc-4985-ab6f-1962e0e71d2d",
+    "guid": "1164fe4b-19f1-4237-9632-1da6069eb7cc",
     "name": "Jewelery"
   },
   {
+    "id": 3,
+    "guid": "913575b1-7ab8-4f53-ba98-cc9c41fbeb03",
+    "name": "Kids"
+  },
+  {
     "id": 4,
-    "guid": "4dd58493-bf3d-4fc1-9e04-3857a919c01d",
-    "name": "Computers"
+    "guid": "4eaacf7e-6786-4e69-a1c8-165969dafd25",
+    "name": "Home"
   },
   {
     "id": 5,
-    "guid": "ef8029a9-1470-41c4-a25d-78fdc1c3eaaf",
-    "name": "Electronics"
+    "guid": "645671e2-3c20-46b3-873a-da6fc2f92353",
+    "name": "Health"
   },
   {
     "id": 6,
-    "guid": "15459264-57a4-4dab-b990-00127bdd54e3",
-    "name": "Sports"
+    "guid": "5518d07a-0ccb-464a-bdd7-7401fe674254",
+    "name": "Automotive"
   },
   {
     "id": 7,
-    "guid": "d032878d-caa8-42f7-8f4e-158c7a8886bd",
-    "name": "Clothing"
+    "guid": "9f141090-cc11-4a65-bb42-cbbea46ec4e3",
+    "name": "Games"
   },
   {
     "id": 8,
-    "guid": "c1a8b148-0500-43bf-9c62-0c58d8db39e9",
+    "guid": "ab5edd6b-cd28-426c-a022-15e1503ce49a",
     "name": "Books"
   },
   {
     "id": 9,
-    "guid": "5d7a6bd7-f181-40ac-a2d8-4611da2cd445",
-    "name": "Electronics"
+    "guid": "ae8fb488-dfff-482e-bcca-d4e0d551744c",
+    "name": "Garden"
   },
   {
     "id": 10,
-    "guid": "2b10e430-e59a-48b4-966e-889444c160da",
-    "name": "Sports"
-  },
-  {
-    "id": 11,
-    "guid": "06efb700-ebf2-4f8b-bbd5-f9b9412df664",
-    "name": "Clothing"
-  },
-  {
-    "id": 12,
-    "guid": "8a69dd3e-815f-4cb4-a9d9-c8139efae867",
-    "name": "Clothing"
-  },
-  {
-    "id": 13,
-    "guid": "f5b0f2a2-d71b-4d3b-955e-317e518c3f31",
-    "name": "Music"
-  },
-  {
-    "id": 14,
-    "guid": "abf906ef-a630-490f-acf2-ff8252698a3d",
-    "name": "Clothing"
-  },
-  {
-    "id": 15,
-    "guid": "fd202cdb-4d87-4946-9309-c6b0e5b91ede",
+    "guid": "c4161d9f-ca49-4914-afc8-cbfa8bf343c8",
     "name": "Jewelery"
   },
   {
-    "id": 16,
-    "guid": "7c2f4c26-6c62-4b96-bb41-e7e9b004945e",
-    "name": "Industrial"
+    "id": 11,
+    "guid": "3706a1f5-d6cb-47dd-a0db-05fcca80f8ce",
+    "name": "Jewelery"
   },
   {
-    "id": 17,
-    "guid": "27e95d0d-2141-4950-8a9a-1c9970e43f1c",
+    "id": 12,
+    "guid": "70d15e59-b112-4ffe-a5e0-a8a9f1ae735a",
+    "name": "Electronics"
+  },
+  {
+    "id": 13,
+    "guid": "fbca7158-5c0b-4192-98ac-e84fd475864e",
     "name": "Games"
   },
   {
+    "id": 14,
+    "guid": "29b71de3-03b8-4424-aab5-2ee32641323a",
+    "name": "Beauty"
+  },
+  {
+    "id": 15,
+    "guid": "5668f9f1-d672-4150-9424-22766bd81f09",
+    "name": "Sports"
+  },
+  {
+    "id": 16,
+    "guid": "b49b3524-e49b-4dbb-a21e-dd09bb91b737",
+    "name": "Movies"
+  },
+  {
+    "id": 17,
+    "guid": "16cf7221-fe41-4040-9f19-fcd2bd841a68",
+    "name": "Shoes"
+  },
+  {
     "id": 18,
-    "guid": "2e77c617-902e-49dc-950b-5126e60d9e1e",
+    "guid": "5017bdaa-d3b9-4a41-9a53-54c97343fb46",
     "name": "Computers"
   },
   {
     "id": 19,
-    "guid": "b41291de-ad7f-46a7-bb27-c1cf74ebae08",
-    "name": "Baby"
+    "guid": "921d5bd7-72b6-48de-9e40-3e8680341b6e",
+    "name": "Sports"
   },
   {
     "id": 20,
-    "guid": "0c6b38f9-5ced-485c-9b43-951c8eaaced5",
-    "name": "Baby"
+    "guid": "28392940-3030-4d1d-91ee-a686af896d35",
+    "name": "Automotive"
   }
 ]

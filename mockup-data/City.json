@@ -1,502 +1,502 @@
 [
   {
     "id": 1,
-    "guid": "385dab85-82af-4536-8e73-c2748b7446ce",
-    "name": "Jastrebarsko"
+    "guid": "467f58d8-20da-426f-b928-c1d37f49313c",
+    "name": "Sveti Ivan Zelina"
   },
   {
     "id": 2,
-    "guid": "d3a68432-cc6d-4a98-a835-64b746f7e7ad",
-    "name": "Čabar"
+    "guid": "f5e6aea6-10ba-4f1b-bef2-ff222a6fced8",
+    "name": "Zagreb"
   },
   {
     "id": 3,
-    "guid": "d1ecf9e1-bf70-40d9-920b-1b27246914b6",
-    "name": "Drniš"
+    "guid": "9e3dbf4f-983a-4f19-be2b-a796d8b7d747",
+    "name": "Donji Miholjac"
   },
   {
     "id": 4,
-    "guid": "63fae43e-c512-4ffc-9941-991f496c8c99",
-    "name": "Kutjevo"
+    "guid": "f7eec423-5b6a-42f5-911d-649174d9d3aa",
+    "name": "Otočac"
   },
   {
     "id": 5,
-    "guid": "3cdecc96-b499-42f1-874a-fe37267df5ec",
-    "name": "Đakovo"
+    "guid": "91d44e2a-ce89-493f-ab4e-8b9545ff3c55",
+    "name": "Grubišno Polje"
   },
   {
     "id": 6,
-    "guid": "49109b25-f589-4e9e-988e-4dc84c605fc1",
-    "name": "Rab"
+    "guid": "c31bbc7a-dedd-474b-a62c-907eee0b7735",
+    "name": "Zaprešic"
   },
   {
     "id": 7,
-    "guid": "02449b9c-059c-4274-9bea-93d0c6d7cedc",
-    "name": "Metković"
+    "guid": "c4ff0b92-3131-4f47-a58c-3688b5da7ec0",
+    "name": "Đakovo"
   },
   {
     "id": 8,
-    "guid": "ca00ba3f-868d-4ffd-91c7-c9bb4dea3cbb",
-    "name": "Sveta Nedelja"
-  },
-  {
-    "id": 9,
-    "guid": "1fa663ce-6ca1-40e2-ab17-a448ac07d700",
-    "name": "Pakrac"
-  },
-  {
-    "id": 10,
-    "guid": "7c77afd7-4a2b-4b3b-b72f-909c4968af36",
-    "name": "Koprivnica"
-  },
-  {
-    "id": 11,
-    "guid": "40634de2-6813-4e76-ad78-33a1e88f4917",
-    "name": "Stari Grad"
-  },
-  {
-    "id": 12,
-    "guid": "d130f084-1cad-4259-a8f9-f9ec0cb421bf",
-    "name": "Garešnica"
-  },
-  {
-    "id": 13,
-    "guid": "272b5bf7-47ab-4214-b499-35d28c27679e",
-    "name": "Pula"
-  },
-  {
-    "id": 14,
-    "guid": "aaede9ce-70dd-4e23-9196-f0b5b446b4a6",
-    "name": "Čakovec"
-  },
-  {
-    "id": 15,
-    "guid": "e0cddcb5-c417-499d-83b1-1c7c82fcdad8",
-    "name": "Prelog"
-  },
-  {
-    "id": 16,
-    "guid": "a8e85327-a035-4d0d-9b14-66080c594102",
-    "name": "Križevci"
-  },
-  {
-    "id": 17,
-    "guid": "a8f7bfc3-149e-45b2-bd19-c197956736ec",
-    "name": "Pregrada"
-  },
-  {
-    "id": 18,
-    "guid": "60ee194d-1513-4308-8b60-fde4b6a3562b",
-    "name": "Pregrada"
-  },
-  {
-    "id": 19,
-    "guid": "77990342-66b0-460f-8a3b-6552404ca640",
-    "name": "Bjelovar"
-  },
-  {
-    "id": 20,
-    "guid": "184581d2-0960-4243-968b-5a39e33f5730",
-    "name": "Orahovica"
-  },
-  {
-    "id": 21,
-    "guid": "c33d1bf7-ec73-4fca-9982-15b8cd0b8e38",
-    "name": "Kastav"
-  },
-  {
-    "id": 22,
-    "guid": "5449d4a5-248a-4c0f-a973-c13b58ca3e16",
+    "guid": "c04a627c-aa3c-4fe0-af91-30827a0bc6ab",
     "name": "Slavonski Brod"
   },
   {
-    "id": 23,
-    "guid": "e0194826-a360-4952-a9c4-a70cec60b700",
-    "name": "Vrbovsko"
+    "id": 9,
+    "guid": "b0109da9-9398-43fb-a394-9d13a876c9e1",
+    "name": "Cres"
   },
   {
-    "id": 24,
-    "guid": "74ede672-59aa-4c50-b825-d3fbace65f56",
+    "id": 10,
+    "guid": "87307c7a-f6ab-447a-a2e9-7362c5543d8c",
+    "name": "Klanjec"
+  },
+  {
+    "id": 11,
+    "guid": "8f2da846-133b-49a2-9df0-4b43b2c59bf8",
+    "name": "Mali Lošinj"
+  },
+  {
+    "id": 12,
+    "guid": "1a8c20aa-ad1d-41a6-a8bf-742a4c2cd9bb",
+    "name": "Rijeka"
+  },
+  {
+    "id": 13,
+    "guid": "ba730ec9-bcf8-423d-a5db-a7cd771762c0",
+    "name": "Pag"
+  },
+  {
+    "id": 14,
+    "guid": "f5501b6b-8f96-42d1-99a2-136afbfeb175",
+    "name": "Senj"
+  },
+  {
+    "id": 15,
+    "guid": "5fab5799-cf97-4af2-b493-96ec1b7d970a",
+    "name": "Buje"
+  },
+  {
+    "id": 16,
+    "guid": "f83328ad-4dd5-4863-89f3-2f3a19ffb830",
     "name": "Popovača"
   },
   {
+    "id": 17,
+    "guid": "720f2e6c-4133-4017-8612-2adb1d22df6c",
+    "name": "Čakovec"
+  },
+  {
+    "id": 18,
+    "guid": "0ef9cad0-6382-411f-abaf-f32e0085fe2e",
+    "name": "Imotski"
+  },
+  {
+    "id": 19,
+    "guid": "5159bce6-0e83-49bf-9439-373aa37798c3",
+    "name": "Sisak"
+  },
+  {
+    "id": 20,
+    "guid": "27624760-9f6e-478b-8046-3fd595eea5f2",
+    "name": "Križevci"
+  },
+  {
+    "id": 21,
+    "guid": "c8c0a210-3b25-475b-9b49-40022fe74f3e",
+    "name": "Novalja"
+  },
+  {
+    "id": 22,
+    "guid": "36382434-c545-4a0d-8dfc-99d008e91004",
+    "name": "Slatina"
+  },
+  {
+    "id": 23,
+    "guid": "c175d359-e4de-4418-9475-f99e00d9a1fd",
+    "name": "Virovitica"
+  },
+  {
+    "id": 24,
+    "guid": "81bb85b5-264f-4b54-85aa-7b85b93eefcc",
+    "name": "Varaždin"
+  },
+  {
     "id": 25,
-    "guid": "ca429bac-ef15-4b55-a881-4b178b48e012",
-    "name": "Hrvatska Kostajnica"
+    "guid": "50c9cdb5-f848-419f-a62e-7148b8970fc3",
+    "name": "Kastav"
   },
   {
     "id": 26,
-    "guid": "3a2482b9-ef9c-42b8-89b9-7e2794704b4e",
-    "name": "Novska"
+    "guid": "34fdd104-1298-4c64-bf4a-a2d74d84d6b2",
+    "name": "Korčula"
   },
   {
     "id": 27,
-    "guid": "3cab6dde-4236-4c55-91bb-c3723e3df766",
-    "name": "Krk"
+    "guid": "e412a328-2d17-43cf-aa57-a2029cfbdb39",
+    "name": "Skradin"
   },
   {
     "id": 28,
-    "guid": "fa90003a-e2ef-41c1-8e5c-a8e8d11a507f",
-    "name": "Solin"
+    "guid": "21f92453-0205-4f6d-8c2e-196802760933",
+    "name": "Opuzen"
   },
   {
     "id": 29,
-    "guid": "f5a3a4d0-0000-41bd-a8a5-17b62fe4b0f0",
-    "name": "Metković"
+    "guid": "bc38058e-92be-4237-a41c-f9457c756459",
+    "name": "Imotski"
   },
   {
     "id": 30,
-    "guid": "d2465ed9-1e80-45a5-96ed-1fe96ca8f159",
-    "name": "Belišće"
+    "guid": "e6f62f3b-79b9-4ddc-a6a5-452143c3304a",
+    "name": "Varaždin"
   },
   {
     "id": 31,
-    "guid": "70fd540e-883d-4afc-8f46-13c3eca50058",
-    "name": "Supetar"
+    "guid": "2bfb03f6-fa14-427b-a76e-71fc1b09f6c6",
+    "name": "Ploče"
   },
   {
     "id": 32,
-    "guid": "2f6a0e2e-6f74-4487-bccf-0bc009aa93c0",
-    "name": "Nova Gradiška"
+    "guid": "3059174d-2476-4696-9e6d-dab15205ecca",
+    "name": "Požega"
   },
   {
     "id": 33,
-    "guid": "e50cf61d-63d4-49a1-933d-5d91f6adf07d",
-    "name": "Sveta Nedelja"
+    "guid": "547fde2f-d7f5-4274-abce-449c7e6e60aa",
+    "name": "Jastrebarsko"
   },
   {
     "id": 34,
-    "guid": "ae85807d-b468-4473-898f-5cef83c14d89",
-    "name": "Oroslavje"
+    "guid": "3e353cd5-32a0-4ff9-8068-151ccb5fda69",
+    "name": "Nova Gradiška"
   },
   {
     "id": 35,
-    "guid": "f7d840d8-4a53-4b61-bfb2-92315595b14b",
-    "name": "Belišće"
+    "guid": "1ec8cb12-1561-4123-8f1a-01b90566902a",
+    "name": "Bakar"
   },
   {
     "id": 36,
-    "guid": "f2828e8a-1e56-463d-920d-1b37106a20b3",
-    "name": "Vis"
+    "guid": "f8f666c6-5be7-4c24-a678-8e7cb237b321",
+    "name": "Sveti Ivan Zelina"
   },
   {
     "id": 37,
-    "guid": "a4bf8412-ba75-4748-af48-d6adaa4f213c",
-    "name": "Buzet"
+    "guid": "03574006-1605-4320-9332-394e922aa211",
+    "name": "Otočac"
   },
   {
     "id": 38,
-    "guid": "7c309d78-8693-4c4b-a0a7-9c9bbf999930",
+    "guid": "e7363514-7f6b-4b35-a8bb-b21b662bb2ea",
     "name": "Nova Gradiška"
   },
   {
     "id": 39,
-    "guid": "093f2550-a018-4b56-9fc9-c5c3b99a2276",
-    "name": "Novalja"
+    "guid": "19e6a78e-a86d-432d-b1cc-3eff04c77b9b",
+    "name": "Glina"
   },
   {
     "id": 40,
-    "guid": "3f9de3a1-7c55-4e31-aff3-f063f9c23858",
-    "name": "Dubrovnik"
+    "guid": "dfb32c2f-b2dc-4be6-8939-685c5a4f7f47",
+    "name": "Novi Vinodolski"
   },
   {
     "id": 41,
-    "guid": "2f4e02b9-3204-4ca4-be2d-daea29a3c058",
-    "name": "Sinj"
+    "guid": "9a0a4c7b-f389-4b13-826a-3880de96c755",
+    "name": "Donji Miholjac"
   },
   {
     "id": 42,
-    "guid": "c403c70f-90c3-4f9b-a5d1-11c818832f46",
-    "name": "Našice"
+    "guid": "67973e1a-cf28-4e91-9122-a8a1f86c5fa2",
+    "name": "Lepoglava"
   },
   {
     "id": 43,
-    "guid": "98f37be0-57b9-416e-8d41-b4c5aaf62550",
-    "name": "Dubrovnik"
+    "guid": "4fb68b08-1f43-489f-825c-abef88a8989b",
+    "name": "Skradin"
   },
   {
     "id": 44,
-    "guid": "b6e72825-2a28-45dd-b996-763981487290",
-    "name": "Hvar"
+    "guid": "d177f9d0-fd02-4959-b1fd-c4fd28131e89",
+    "name": "Buje"
   },
   {
     "id": 45,
-    "guid": "fb338d69-9baf-4484-9f66-c0a9a46b1add",
-    "name": "Jastrebarsko"
+    "guid": "35c359eb-4616-4b44-b98a-f65c5f0e84dc",
+    "name": "Nin"
   },
   {
     "id": 46,
-    "guid": "af120e90-082f-4e21-af0b-f598390e4b5c",
-    "name": "Drniš"
-  },
-  {
-    "id": 47,
-    "guid": "9aeacb11-79ab-46b7-a730-7e3e5ed7a04a",
-    "name": "Zabok"
-  },
-  {
-    "id": 48,
-    "guid": "91c01d08-7c94-49fb-b2e3-fcd1aa875f7c",
-    "name": "Novigrad-Cittanova"
-  },
-  {
-    "id": 49,
-    "guid": "6b88bd46-b29b-4500-b4ae-c11f6a694094",
-    "name": "Cres"
-  },
-  {
-    "id": 50,
-    "guid": "3606868b-15b8-4e51-b441-2d131e1deb68",
-    "name": "Garešnica"
-  },
-  {
-    "id": 51,
-    "guid": "71e296d0-51e4-4839-94cd-447b0d491e32",
-    "name": "Daruvar"
-  },
-  {
-    "id": 52,
-    "guid": "69a78f9b-b919-48a4-bed2-fa39e58fecea",
-    "name": "Opatija"
-  },
-  {
-    "id": 53,
-    "guid": "0305b5fc-fc03-470a-849b-10ed8528a6fc",
-    "name": "Križevci"
-  },
-  {
-    "id": 54,
-    "guid": "818482c5-9ff9-4f44-80bc-0170ac7dbf08",
-    "name": "Buzet"
-  },
-  {
-    "id": 55,
-    "guid": "8c35ed21-5319-4e74-b62e-0196b80e99ec",
-    "name": "Vinkovci"
-  },
-  {
-    "id": 56,
-    "guid": "e0556230-60ce-4b4c-bb81-c4f729f164a6",
-    "name": "Vrbovec"
-  },
-  {
-    "id": 57,
-    "guid": "84c25279-a94e-4ea5-989b-34ab88c34889",
-    "name": "Sveta Nedelja"
-  },
-  {
-    "id": 58,
-    "guid": "aa756b49-469f-4d31-91b9-527976a5bf18",
-    "name": "Zagreb"
-  },
-  {
-    "id": 59,
-    "guid": "9c397387-88cd-4f1e-b94c-2e55abc454f6",
-    "name": "Klanjec"
-  },
-  {
-    "id": 60,
-    "guid": "2e82472c-a585-42a0-be76-36ce004a1880",
-    "name": "Mali Lošinj"
-  },
-  {
-    "id": 61,
-    "guid": "e93f221b-ab1c-4d86-985e-f71cc5b23b98",
-    "name": "Otok"
-  },
-  {
-    "id": 62,
-    "guid": "f6efff92-bb74-4f42-a1fc-dd15c3d5fe73",
-    "name": "Benkovac"
-  },
-  {
-    "id": 63,
-    "guid": "bfa17db0-827f-4322-9a7c-708be37c88b1",
-    "name": "Glina"
-  },
-  {
-    "id": 64,
-    "guid": "53838882-2e18-408a-a4dd-05766a22ddd2",
-    "name": "Cres"
-  },
-  {
-    "id": 65,
-    "guid": "c3dd624a-2d29-4865-9b61-0ee41fcdf05a",
-    "name": "Gospić"
-  },
-  {
-    "id": 66,
-    "guid": "a0db80ae-9611-48c5-9a01-1439422c88d1",
-    "name": "Hvar"
-  },
-  {
-    "id": 67,
-    "guid": "ea8e6d81-e208-4005-ab7b-42d134e76e9e",
-    "name": "Hvar"
-  },
-  {
-    "id": 68,
-    "guid": "f6cb39ad-813e-4abf-a289-5098b6bac6ce",
-    "name": "Popovača"
-  },
-  {
-    "id": 69,
-    "guid": "28911635-0c88-406c-bc45-dca493a103fc",
-    "name": "Sisak"
-  },
-  {
-    "id": 70,
-    "guid": "41160eb7-5773-4d4f-a3b0-c437b9693fd7",
-    "name": "Šibenik"
-  },
-  {
-    "id": 71,
-    "guid": "d438fd72-02f0-4333-8920-87458ba8cdfd",
-    "name": "Virovitica"
-  },
-  {
-    "id": 72,
-    "guid": "8cf08273-dcca-4132-8b36-2096e90e13d2",
-    "name": "Split"
-  },
-  {
-    "id": 73,
-    "guid": "4936aec7-f6ba-48fd-aba2-6e3a5ce3a21d",
-    "name": "Trogir"
-  },
-  {
-    "id": 74,
-    "guid": "418bcee4-8ac5-4dba-80d4-b05c2e05c991",
-    "name": "Labin"
-  },
-  {
-    "id": 75,
-    "guid": "821065be-5af8-4bb2-bc72-ce2e55e83395",
-    "name": "Lipik"
-  },
-  {
-    "id": 76,
-    "guid": "007cee66-ea8d-42f9-ba44-8fd820a3baf1",
-    "name": "Pakrac"
-  },
-  {
-    "id": 77,
-    "guid": "b1314ccc-2457-4249-a630-3f322fc197a8",
-    "name": "Mursko Središce"
-  },
-  {
-    "id": 78,
-    "guid": "748948da-cdc4-4f1b-afff-5ccac224ef11",
-    "name": "Zadar"
-  },
-  {
-    "id": 79,
-    "guid": "61f3f865-72f2-4b46-96b7-3edfbd5af4d1",
-    "name": "Samobor"
-  },
-  {
-    "id": 80,
-    "guid": "481f5bad-9458-423c-8d55-a128710b8290",
-    "name": "Dubrovnik"
-  },
-  {
-    "id": 81,
-    "guid": "9bc03a21-ac6a-4cbb-95ca-37ebc42c1035",
-    "name": "Osijek"
-  },
-  {
-    "id": 82,
-    "guid": "5df78eb0-3f28-41b1-89c8-ff120265b4b7",
-    "name": "Klanjec"
-  },
-  {
-    "id": 83,
-    "guid": "bcedc461-ca30-4256-8ce3-9f3e79cb3919",
-    "name": "Poreč"
-  },
-  {
-    "id": 84,
-    "guid": "a6a91fd1-25c5-447a-95d5-ffdce7e57b65",
-    "name": "Novigrad-Cittanova"
-  },
-  {
-    "id": 85,
-    "guid": "bfcaeff1-64d2-4922-9f07-028b8161e3a3",
-    "name": "Vodnjan"
-  },
-  {
-    "id": 86,
-    "guid": "353f4873-f37c-4ec4-9914-663db94fd223",
-    "name": "Omiš"
-  },
-  {
-    "id": 87,
-    "guid": "48be96db-9490-4a64-8ccd-cfd498e60b34",
-    "name": "Oroslavje"
-  },
-  {
-    "id": 88,
-    "guid": "8392038d-6419-4a57-9c64-fb64b45fe535",
-    "name": "Đurđevac"
-  },
-  {
-    "id": 89,
-    "guid": "d1628886-e2ac-48b3-a11c-3b9238962fa9",
-    "name": "Cres"
-  },
-  {
-    "id": 90,
-    "guid": "428e6766-d7b1-4318-899c-fcbecdade174",
-    "name": "Knin"
-  },
-  {
-    "id": 91,
-    "guid": "74b4e882-8ef9-49ae-856f-f8e3b72613de",
-    "name": "Benkovac"
-  },
-  {
-    "id": 92,
-    "guid": "00d73d16-15ec-45d7-ab13-e6bca1979182",
-    "name": "Petrinja"
-  },
-  {
-    "id": 93,
-    "guid": "29b70959-a267-4749-b3a0-6f50f1368b27",
-    "name": "Belišće"
-  },
-  {
-    "id": 94,
-    "guid": "34eb5f68-4c26-4be5-b22f-7fde03d0e69a",
-    "name": "Hvar"
-  },
-  {
-    "id": 95,
-    "guid": "60d93f6d-d8b4-4919-968b-32461e346c76",
-    "name": "Zlatar"
-  },
-  {
-    "id": 96,
-    "guid": "0b3f2f27-ace0-4d49-8ec8-ad7b1124d5f2",
+    "guid": "93c74222-d0d0-4a6b-95ce-4ace30d59a5c",
     "name": "Bakar"
   },
   {
-    "id": 97,
-    "guid": "a71c3557-5d96-4cd9-b531-2cffb36388a3",
-    "name": "Glina"
+    "id": 47,
+    "guid": "f8a7ec4d-3479-498a-969b-390260f8b8c4",
+    "name": "Ploče"
   },
   {
-    "id": 98,
-    "guid": "e5aba25a-84d4-4d1f-a253-7c4a1e925871",
-    "name": "Crikvenica"
-  },
-  {
-    "id": 99,
-    "guid": "0565c5be-2c23-4617-a1a1-94b837ca0048",
+    "id": 48,
+    "guid": "75e0f96c-6be0-4cb6-a9b7-83f621a03647",
     "name": "Trilj"
   },
   {
+    "id": 49,
+    "guid": "7e419717-58bf-497b-8b40-5cdcfb34137a",
+    "name": "Trilj"
+  },
+  {
+    "id": 50,
+    "guid": "4ba6c10a-8567-4c19-ae38-500a737e123d",
+    "name": "Valpovo"
+  },
+  {
+    "id": 51,
+    "guid": "4d3ba865-84f5-4c56-9f3d-af758e4c4183",
+    "name": "Varaždin"
+  },
+  {
+    "id": 52,
+    "guid": "a219ac96-04bc-4d92-ae17-8afe0fa9687d",
+    "name": "Rijeka"
+  },
+  {
+    "id": 53,
+    "guid": "c21e5b17-512b-490b-8403-0ee8863a65ac",
+    "name": "Zadar"
+  },
+  {
+    "id": 54,
+    "guid": "76764aaa-a74a-4109-9b28-733494daf024",
+    "name": "Rijeka"
+  },
+  {
+    "id": 55,
+    "guid": "d546e9a9-8d6c-4d81-91d0-d49d6220f526",
+    "name": "Ozalj"
+  },
+  {
+    "id": 56,
+    "guid": "7257a846-9524-4157-9451-ca2fe86fe4fe",
+    "name": "Makarska"
+  },
+  {
+    "id": 57,
+    "guid": "b806c502-dfc8-48fc-93e5-8d783c1f430d",
+    "name": "Vodnjan"
+  },
+  {
+    "id": 58,
+    "guid": "be4643df-b838-4c91-ae95-8d74fcfc1c96",
+    "name": "Slunj"
+  },
+  {
+    "id": 59,
+    "guid": "c0f5cd64-ea5e-4eb6-8209-6a13ee8824b0",
+    "name": "Nova Gradiška"
+  },
+  {
+    "id": 60,
+    "guid": "16b6a4bc-603f-40d3-852d-0b0a8cf39328",
+    "name": "Buje"
+  },
+  {
+    "id": 61,
+    "guid": "d31d9dee-e124-4ada-9e83-ec1733d9193a",
+    "name": "Ivanić-Grad"
+  },
+  {
+    "id": 62,
+    "guid": "22d01cae-b8e4-4e3f-a99a-2e505c87494a",
+    "name": "Đakovo"
+  },
+  {
+    "id": 63,
+    "guid": "2bbf489e-d5dc-434e-913b-1be62d027ec0",
+    "name": "Velika Gorica"
+  },
+  {
+    "id": 64,
+    "guid": "142b806b-12e1-42e7-a126-e0c419f5b65b",
+    "name": "Đurđevac"
+  },
+  {
+    "id": 65,
+    "guid": "2c36141e-f81d-41a1-b696-6e13be57e199",
+    "name": "Osijek"
+  },
+  {
+    "id": 66,
+    "guid": "1eeaf0c8-d1eb-44fe-9657-86673fd60a16",
+    "name": "Labin"
+  },
+  {
+    "id": 67,
+    "guid": "0dbd6031-49dd-4e59-b847-ef862e9d7e05",
+    "name": "Skradin"
+  },
+  {
+    "id": 68,
+    "guid": "5185d047-b913-4f00-a71a-9069140f4a30",
+    "name": "Sinj"
+  },
+  {
+    "id": 69,
+    "guid": "c9dcf011-134e-4be5-b984-8c34d59ede54",
+    "name": "Požega"
+  },
+  {
+    "id": 70,
+    "guid": "9d73b91b-7b94-4fdf-974a-d55655a3e49a",
+    "name": "Gospić"
+  },
+  {
+    "id": 71,
+    "guid": "d9f9e68e-741b-4012-8e1c-71a39496b1e3",
+    "name": "Otočac"
+  },
+  {
+    "id": 72,
+    "guid": "5b5b1e35-687e-4925-baed-c90139ffda1e",
+    "name": "Koprivnica"
+  },
+  {
+    "id": 73,
+    "guid": "fa92eeda-a07b-49bf-9220-bb6de3ac1aef",
+    "name": "Benkovac"
+  },
+  {
+    "id": 74,
+    "guid": "bc4f68dd-60c3-4726-8be7-c95725561cac",
+    "name": "Samobor"
+  },
+  {
+    "id": 75,
+    "guid": "982bfcd4-2006-4b76-ab06-aa98a8d584e8",
+    "name": "Hvar"
+  },
+  {
+    "id": 76,
+    "guid": "eb4678f7-a866-4b4c-b80c-9e6f5b61d98c",
+    "name": "Zagreb"
+  },
+  {
+    "id": 77,
+    "guid": "ca9e107f-017c-43d4-916e-12a5595e7f2c",
+    "name": "Ogulin"
+  },
+  {
+    "id": 78,
+    "guid": "2227f16a-407d-442d-9fa4-fc7fb9a4e6c9",
+    "name": "Vukovar"
+  },
+  {
+    "id": 79,
+    "guid": "ab1b405d-773c-4c98-9b48-b81c9bd80355",
+    "name": "Vrbovec"
+  },
+  {
+    "id": 80,
+    "guid": "e6e743c6-ad30-4a44-b1a9-995420ab0fcb",
+    "name": "Otočac"
+  },
+  {
+    "id": 81,
+    "guid": "f00ae87b-363d-41a4-8819-510e0808117e",
+    "name": "Nova Gradiška"
+  },
+  {
+    "id": 82,
+    "guid": "81a65c60-c71b-46ab-a6e8-f3eca1bef561",
+    "name": "Metković"
+  },
+  {
+    "id": 83,
+    "guid": "229f4744-d53a-448b-b0bd-6975402e2699",
+    "name": "Trogir"
+  },
+  {
+    "id": 84,
+    "guid": "580a191a-a411-4746-bc05-cc30f022f216",
+    "name": "Rovinj"
+  },
+  {
+    "id": 85,
+    "guid": "39d335df-b72e-4bd4-8a14-16823724eb27",
+    "name": "Opuzen"
+  },
+  {
+    "id": 86,
+    "guid": "ae787427-80af-4fb7-ad82-2d48199114b8",
+    "name": "Knin"
+  },
+  {
+    "id": 87,
+    "guid": "798759a8-98b0-44c1-8657-c038eebb2e95",
+    "name": "Kutjevo"
+  },
+  {
+    "id": 88,
+    "guid": "a0df3dd1-5402-4481-ae4d-4ed36ef1a9d9",
+    "name": "Pula"
+  },
+  {
+    "id": 89,
+    "guid": "69372cf8-757f-428f-bf33-5f81d24683c2",
+    "name": "Čazma"
+  },
+  {
+    "id": 90,
+    "guid": "9728a595-2548-4ce2-b03c-55a29134973f",
+    "name": "Skradin"
+  },
+  {
+    "id": 91,
+    "guid": "001cb87f-ea5e-4f65-80af-0490ac8d3a3f",
+    "name": "Prelog"
+  },
+  {
+    "id": 92,
+    "guid": "a75da11a-4678-4e24-9ff6-720536a71475",
+    "name": "Vrgorac"
+  },
+  {
+    "id": 93,
+    "guid": "e75ba1f3-b495-4e7d-b93a-74e472971975",
+    "name": "Rovinj"
+  },
+  {
+    "id": 94,
+    "guid": "e596bf93-c5bd-4137-8847-778081445651",
+    "name": "Poreč"
+  },
+  {
+    "id": 95,
+    "guid": "ebdf083d-9e5e-4c3b-9bc4-f5cd729b31e3",
+    "name": "Pazin"
+  },
+  {
+    "id": 96,
+    "guid": "afc937b4-ad45-4cb0-850c-dd53891b3908",
+    "name": "Križevci"
+  },
+  {
+    "id": 97,
+    "guid": "5aa99079-c847-4718-90d0-9b2b1c24477c",
+    "name": "Krapina"
+  },
+  {
+    "id": 98,
+    "guid": "42db00ca-a87e-4eea-9f71-a9c30d401798",
+    "name": "Belišće"
+  },
+  {
+    "id": 99,
+    "guid": "461210d8-f4e6-445a-a91e-da5202a1b78a",
+    "name": "Otok"
+  },
+  {
     "id": 100,
-    "guid": "3cfbd843-9f16-4f48-ba41-2b4148d9226b",
-    "name": "Vinkovci"
+    "guid": "60fdb274-24f9-4f16-9905-bf76721cff7c",
+    "name": "Imotski"
   }
 ]
