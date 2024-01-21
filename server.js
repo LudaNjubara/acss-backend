@@ -11,6 +11,8 @@ const middlewares = jsonServer.defaults();
 server.use(cors());
 server.use(bodyParser.json());
 server.use(bodyParser.urlencoded({ extended: true }));
+const lowdb = router.db;
+const dbUsers = () => lowdb.get("User");
 
 const PORT = 3001;
 
@@ -55,11 +57,13 @@ function addAuthenticatedUser({ name, email, password }) {
 }
 
 server.post("/auth/register", (req, res) => {
-  const { name, email, password } = req.body;
-  addAuthenticatedUser({ name, email, password });
+  // Add authenticated user to database
+
+  const resource = dbUsers().insert(req.body).value();
 
   const status = 200;
-  res.status(status).json({});
+
+  res.status(status).json(resource);
 });
 
 server.get("/auth/user-info", (req, res) => {
@@ -73,10 +77,10 @@ server.get("/auth/user-info", (req, res) => {
     return;
   }
 
-  const userdb = JSON.parse(fs.readFileSync("./mockup-data/User.json", "UTF-8"));
-  const user = userdb.find(
-    (user) => user.email === verifiedToken.email && user.password === verifiedToken.password
-  );
+  // Get authenticated user from database
+  const user = dbUsers()
+    .find((u) => u.email == verifiedToken.email)
+    .value();
   const userWithoutPassword = { ...user };
   delete userWithoutPassword.password;
 
