@@ -9,13 +9,17 @@ const itemGen = (receiptCount, productCount, itemMinCount, itemMaxCount, qtyMinC
     const itemCount = faker.number.int({ min: itemMinCount, max: itemMaxCount });
     for (let j = 1; j <= itemCount; j++) {
       itemsTotal++;
+      const quantity = faker.number.int({ min: qtyMinCount, max: qtyMaxCount });
+      const pricePerPiece = faker.number.float({ min: 0.01, max: 1000, precision: 0.01 });
+
       const item = {
         id: itemsTotal,
         guid: faker.string.uuid(),
         billId: i,
-        quantity: faker.number.int({ min: qtyMinCount, max: qtyMaxCount }),
+        quantity: quantity,
+        pricePerPiece: pricePerPiece,
         productId: faker.number.int({ min: 1, max: productCount + 1 }),
-        totalPrice: fakerHr.commerce.price(),
+        totalPrice: quantity * pricePerPiece,
       };
       items.push(item);
     }
