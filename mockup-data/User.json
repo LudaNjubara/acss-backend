@@ -1,20 +1,14 @@
 [
-    {
-        "id": 1,
-        "name": "admin",
-        "email": "admin@email.com",
-        "password": "admin"
-    },
-    {
-        "id": 2,
-        "name": "test",
-        "email": "test@gmail.com",
-        "password": "testtest"
-    },
-    {
-        "id": 3,
-        "name": "dori_polic",
-        "email": "zoho@gmail.com",
-        "password": "malagnjida"
-    }
+  {
+    "id": 1,
+    "name": "admin",
+    "email": "admin@email.com",
+    "password": "admin"
+  },
+  {
+    "id": 2,
+    "name": "test",
+    "email": "test@gmail.com",
+    "password": "testtest"
+  }
 ]
